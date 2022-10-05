@@ -1,0 +1,12 @@
+{   "workbench.colorTheme": "Dracula",
+"prettier.singleQuote": true,
+
+"material-icon-theme.showWelcomeMessage": false,
+"javascript.updateImportsOnFileMove.enabled": "always",
+"editor.defaultFormatter": "esbenp.prettier-vscode",
+
+"[javascript]": {
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+},
+"workbench.editor.labelFormat": "short"
+}
